@@ -1,4 +1,4 @@
-WhalePipe - Best Traffic Recognizer
+WhalePipe - Best Traffic Recognizer/Traffic Monitoring/Network Forensic Tools
 ---
 
 # Advantages
@@ -32,4 +32,5 @@ WhalePipe - Best Traffic Recognizer
 
 # Competitors
 1. NetworkMiner
-2. 
+2. https://www.paessler.com/network_traffic_analyzer?gclid=CjwKCAiA35rxBRAWEiwADqB378s7trPvNYLBl_ci7_v0Q925edHHmUo3yp3y03hR61KelMDcrt0SkxoCpgIQAvD_BwE
+3. 
