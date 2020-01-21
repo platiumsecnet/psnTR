@@ -11,6 +11,11 @@ Unstructured Search: Drill down to critical packet and flow data with our Elasti
 6. File Reconstruction: Reconstruct email file attachments to support malware analysis and data loss monitoring.
 7. Alerts & Dashboards: Surface continuous, automated analysis on saved searches through customizable analyst dashboards.
 8. API Integration: Provide third-party tools access to session-based packet captures and reconstructed files.
+9. Flexible Deployment for Network Monitoring: Choose the right NetMon deployment for your environment
+- Highly scalable 10 Gbps appliances: Appliances that can keep up as the demands of your network grow
+- Software appliances for remote sites: A cost-effective and flexible solution for monitoring low-bandwidth remote sites starting at 10 Mbps
+- Integrate with existing monitoring infrastructure: Whether via span port, tap, or network packet broker, our passive sensors easily integrate with your infrastructure or SIEM
+- Virtual sensor: A virtual sensor for virtual switches improves your visibility into your cloud infrastructure
 
 # Features
 1. Live sniffing upto 800 Mbps
