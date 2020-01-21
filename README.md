@@ -34,6 +34,9 @@ WhalePipe - Best Traffic Recognizer/Traffic Monitoring/Network Forensic Tools
 _*Opensource_*
 1. NetworkMiner
 2. Hakabana: http://www.haka-security.org/hakabana.html
+3. USArmyResearchLab: https://github.com/USArmyResearchLab/Dshell
+
 _*Commercial*_
 1. https://www.paessler.com/network_traffic_analyzer?gclid=CjwKCAiA35rxBRAWEiwADqB378s7trPvNYLBl_ci7_v0Q925edHHmUo3yp3y03hR61KelMDcrt0SkxoCpgIQAvD_BwE
-2. 
+2. Xplico: https://www.xplico.org/
+3. 
