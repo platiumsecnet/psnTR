@@ -30,3 +30,6 @@ WhalePipe - Best Traffic Recognizer
 24. Command line scripting support
 25. High-Speed PCAP parsing speed (****): Gui version (Upto 10 MB/s) - CLI version (Upto 20 MB/s)
 
+# Competitors
+1. NetworkMiner
+2. 
