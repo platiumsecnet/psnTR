@@ -4,11 +4,11 @@ WhalePipe - Best Traffic Recognizer
 # Advantages
 
 # Features
-1. Live sniffing
-2. Parse PCAP files
+1. Live sniffing upto 800 Mbps
+2. Parse PCAP files 
 3. Parse PcapNG files
 4. IPv6 support
-5. Extract files from FTP, TFTP, HTTP, HTTP/2, SMB, SMB2, SMTP, POP3 and IMAP traffic
+5. Extract files, emails from FTP, TFTP, HTTP, HTTP/2, SMB, SMB2, SMTP, POP3 and IMAP traffic
 6. Extract X.509 certificates from SSL encrypted traffic like HTTPS, SMTPS, IMAPS, POP3S, FTPS etc.
 7. Decapsulation of GRE, 802.1Q, PPPoE, VXLAN, OpenFlow, SOCKS, MPLS and EoMPLS
 8. Receive Pcap-over-IP
